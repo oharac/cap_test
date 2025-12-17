@@ -1,5 +1,6 @@
 # cap_test
 
-Repo for testing Git with the CAP Fellows
+Repo for testing Git with the CAP Fellows - adding more lines out here
 
-This is some new text
+
+Here's another bit of text

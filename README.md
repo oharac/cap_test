@@ -1,6 +1,6 @@
 # cap_test
 
-Repo for testing Git with the CAP Fellows - adding more lines out here
+This is the version on the Aurora server
 
 
 Here's another bit of text
